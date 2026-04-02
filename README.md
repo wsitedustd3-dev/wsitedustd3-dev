@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 ### 내가 공부하고 있는 내용은 다음 링크에 있어 
 https://www.band.us/band/101702520/post
+1. 나의 첫번째 REPO는 Markdown과 웹/앱/웹앱에 대한 것입니다.
+   https://github.com/wsitedustd3-dev/myFirstREPO
