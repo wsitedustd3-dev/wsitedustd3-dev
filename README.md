@@ -5,10 +5,7 @@
 ### 2026년 4월 2일 저의 첫번째 프로젝트 입니다.    
 이 프로젝트는 여행에 관한 것입니다.       
 https://github.com/wsitedustd3-dev/myFirstREPO    
-웹앱은 여기를 클릭하세요     
-https://wsitedustd3-dev.github.io/myFirstREPO/
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
