@@ -1,8 +1,9 @@
 ## Hi there 👋
 ### 나는 지금 2026년 바이오헬스 아카데미를 수업하고 있는 황건적의 후손 황동하라고 해 
 <img width="343" height="426" alt="image" src="https://github.com/user-attachments/assets/0ee549bf-0a12-40f3-a684-cbae1b400d92" />
+다른 사진을 보여 줄께요 
 
-
+![황동하 2025-프로필]("나님 2025_프로필.png")
 **wsitedustd3-dev/wsitedustd3-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
