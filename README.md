@@ -1,10 +1,12 @@
 ## Hi there 👋
-### 나는 지금 2026년 바이오헬스 아카데미를 수업하고 있는 황건적의 후손 황동하라고 해 
-<img width="343" height="426" alt="image" src="https://github.com/user-attachments/assets/0ee549bf-0a12-40f3-a684-cbae1b400d92" />
-다른 사진을 보여 줄께요    
+### 나는 지금 2026년 바이오헬스 아카데미에서 AI를 배우고 있는 황동하 입니다.    
+<img width="343" height="426" alt="image" src="https://github.com/user-attachments/assets/0ee549bf-0a12-40f3-a684-cbae1b400d92" />   
 
-![황동하 2025-프로필](프로필.png)   
-**wsitedustd3-dev/wsitedustd3-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2026년 4월 2일 저의 첫번째 프로젝트 입니다.    
+이 프로젝트는 여행에 관한 것입니다.       
+https://github.com/wsitedustd3-dev/myFirstREPO    
+웹앱은 여기를 클릭하세요     
+https://wsitedustd3-dev.github.io/myFirstREPO/
 
 Here are some ideas to get you started:
 
@@ -17,7 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### 내가 공부하고 있는 내용은 다음 링크에 있어 
-https://www.band.us/band/101702520/post
-1. 나의 첫번째 REPO는 Markdown과 웹/앱/웹앱에 대한 것입니다.
-   https://github.com/wsitedustd3-dev/myFirstREPO
