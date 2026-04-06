@@ -6,8 +6,7 @@
 
 ### 2026년 4월 2일 저의 첫번째 프로젝트 입니다.    
 이 프로젝트는 여행에 관한 것입니다.       
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wsitedustd3-dev/myFirstREPO)
+[![GitHub 연결](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wsitedustd3-dev/myFirstREPO)
 
 
 - 🔭 I’m currently working on ...
