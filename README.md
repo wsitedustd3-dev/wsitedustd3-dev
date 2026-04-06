@@ -14,4 +14,7 @@
 - 📫 How to reach me: 010-21512-6818    
 - ⚡ Fun fact: 매일 즐겁게 프로그래밍 해봅니다.    
 
+<p align="center">
+  <img src="티처스_황.png" width="400">
+</p>
 
