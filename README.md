@@ -1,4 +1,4 @@
-### Hi there~~~ 👋
+# Hi there~~~ 👋
 ## 나는 황동하라고 해 
 <p align="center">
   <img src="티처스_황.png" width="400">
