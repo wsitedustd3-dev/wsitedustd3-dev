@@ -13,4 +13,7 @@
 3. YOLOv5를 이용한 80가지 사물인식 https://github.com/wsitedustd3-dev/yolov5ReadTime   
    3.1 위에서 만든 모듈을 이용해서 간편하게 프로그램을 완성했었다.   
    3.2 app을 webapp으로 만드는것은 개인 과제였음    
-5. Yolov5+Robot https://github.com/wsitedustd3-dev/202605_001-YoloV5WithRobot   
+5. Yolov5+Robot https://github.com/wsitedustd3-dev/202605_001-YoloV5WithRobot
+
+## 웹앱으로 구현한 사물인식
+1. YOLO 실시간 사물인식 
