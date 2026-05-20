@@ -1,11 +1,9 @@
-# Hi there~~~ 👋
 ## 나는 황동하라고 해 
 <p align="center">
   <img src="티처스_황.png" width="400">
 </p>
 
-
-## 내가 하고 있는 사물인식 프로젝트는 최종적으로 로봇을 컨트롤 하는데 까지 합니다. 
+## 수업중 사물인식 프로젝트는 최종적으로 로봇을 컨트롤 하는데 까지 합니다. 
 
 1. 티처블머신을 이용한 사물인식 https://github.com/wsitedustd3-dev/ObjectDetectionWithTM     
 2. 티처블머신을 이용한 사물인식 결과에 따라서 휴머노이드 로봇이 움직이도록 했음 https://github.com/wsitedustd3-dev/robotControlWithTM   
@@ -22,3 +20,6 @@
    실행해보기 https://wsitedustd3-dev.github.io/yolo_robot_webapp/     
 
 
+## 결과물 
+1. 최하늘 https://github.com/gksmf6084-arch
+2. 
