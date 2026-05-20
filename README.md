@@ -18,3 +18,5 @@
 - ⚡ Fun fact: 매일 즐겁게 프로그래밍 해봅니다.    
 
 
+1. 티처블머신을 이용한 사물인식 https://github.com/wsitedustd3-dev/ObjectDetectionWithTM   
+2. 
