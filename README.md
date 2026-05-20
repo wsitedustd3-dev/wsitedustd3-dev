@@ -18,3 +18,5 @@
 ## 웹앱으로 구현한 사물인식
 1. YOLO 실시간 사물인식 https://github.com/wsitedustd3-dev/yolo_webapp    
    실행해보기 https://wsitedustd3-dev.github.io/yolo_webapp/    
+2. YOLO + ROBOT https://github.com/wsitedustd3-dev/yolo_robot_webapp
+   실행해보기 
