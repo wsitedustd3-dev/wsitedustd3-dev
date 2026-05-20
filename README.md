@@ -16,4 +16,4 @@
 5. Yolov5+Robot https://github.com/wsitedustd3-dev/202605_001-YoloV5WithRobot
 
 ## 웹앱으로 구현한 사물인식
-1. YOLO 실시간 사물인식 
+1. YOLO 실시간 사물인식 https://github.com/wsitedustd3-dev/yolo_webapp 
