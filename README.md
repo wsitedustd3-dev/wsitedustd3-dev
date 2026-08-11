@@ -16,5 +16,6 @@
 ## 2026 우송 3반 가장 열심히 공부하는 3인의 친구에요~~~
 - 김연수 https://github.com/rladustn1467-sketch
 - 배상희 https://github.com/dorundorunhellocaz
+- 박서현 https://github.com/97900kiki-rgb
 - 박병민 https://github.com/park22397-svg
 - 병민의 다이아 http://61.81.99.86:5000
