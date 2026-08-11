@@ -37,3 +37,11 @@
 
    
    <img width="302" height="267" alt="image" src="https://github.com/user-attachments/assets/96f54e2a-9915-4b56-a249-ca14cf90328b" />
+
+## 이번에는 링크넣기를 해보겠습니다.
+### 원하는 링크를 붙여 넣으면 끄읕~~~~
+
+## 2026 우송 3반 가장 열심히 공부하는 3인
+- 김연수 https://github.com/rladustn1467-sketch
+- 배상희 https://github.com/dorundorunhellocaz
+- 박병민 https://github.com/park22397-svg
