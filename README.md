@@ -31,4 +31,7 @@
 2. 캡처도구를 이용해서 클립보드에 그림을 복사해와서
 3. 여기에 그냥 붙여 넣기를 합니다.(CTRL+V)
 4. 가져온 그림은 다음과 같습니다.
+   
+   다음 줄에 나오게 하기 위해서 한줄을 비워 놓는 방법도 있습니다.
+   
    <img width="302" height="267" alt="image" src="https://github.com/user-attachments/assets/96f54e2a-9915-4b56-a249-ca14cf90328b" />
